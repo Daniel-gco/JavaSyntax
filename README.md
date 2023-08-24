@@ -1,1 +1,1 @@
-# Learning Java Systax
+# Learning Java Syntax
