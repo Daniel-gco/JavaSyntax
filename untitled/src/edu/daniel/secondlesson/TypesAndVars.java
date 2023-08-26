@@ -1,4 +1,4 @@
-package edu.daniel.secondtLesson;
+package edu.daniel.secondlesson;
 
 public class TypesAndVars {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package edu.daniel.firstLesson;
+package edu.daniel.firstlesson;
 
 public class MyClass {
     public static void main(String[] args) {  // main method
