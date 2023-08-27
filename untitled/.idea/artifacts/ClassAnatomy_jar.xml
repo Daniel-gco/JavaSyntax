@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClassAnatomy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClassAnatomy_jar</output-path>
+    <root id="archive" name="ClassAnatomy.jar">
+      <element id="module-output" name="ClassAnatomy" />
+    </root>
+  </artifact>
+</component>
